@@ -1,0 +1,14 @@
+.card-container {
+    padding: 20px;
+    margin: 16px;
+}
+
+.testimonial-photo {
+    width: 18%;
+    height: 65px;
+}
+
+/* bootstrap class */
+.card-text {
+    line-height: 30px;
+}

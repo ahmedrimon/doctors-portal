@@ -1,0 +1,24 @@
+.form-container {
+    background-image: url('../../../images/chairBg.png');
+    background-color: black;
+    opacity: 0.9;
+    padding-top: 50px;
+}
+
+.my-form {
+    padding: 20px;
+}
+
+.form-group {
+    padding-bottom: 15px;
+}
+
+.my-form input[type="text"]{
+    padding: 8px;
+    width: 50%;
+}
+
+.my-form textarea {
+    height: 170px;
+    width: 50%;
+}

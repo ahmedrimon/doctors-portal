@@ -1,0 +1,19 @@
+.doctor-photo {
+    height: 30em;
+}
+
+.appointment-second {
+    margin: auto;
+    padding: 0 100px;
+}
+
+.appointment-container {
+    height: 480px;
+    position: relative;
+    background-color: #3a4256;
+    background-image: url('../../../images/chairBg.png');
+    background-size: cover;
+    opacity: 0.6rem;
+
+}
+  
